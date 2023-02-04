@@ -2,7 +2,13 @@
 
 A new Flutter project.
 
+## Screenshot
+![Linux Image Snapshot of APP](screenshot/Wall_Street_News_App_Linux_Screenshot.png "Title")
+
 ## Getting Started
+
+# Update Your API Key
+Update API key in Constant/string.dart
 
 This project is a starting point for a Flutter application.
 
